@@ -1,0 +1,20 @@
+.textfield {
+    text-align: left;
+    padding: 0.75rem 1.25rem;
+    background-color: @blue800;
+    border-radius: 999px;
+    border: none;
+    .tp6();
+    color: white;
+}
+.textfield::placeholder {
+    color: @bluegray500;
+}
+
+.textfield.error:focus, .textfield.error:focus-visible {
+    box-shadow: 0 0 0 3px @neutral900, 0 0 0 5px @red400;
+    outline: none;
+}
+.textfield:active, .textfield:focus, .textfield:focus-visible {
+    outline: 1px solid @cyan400;
+}
