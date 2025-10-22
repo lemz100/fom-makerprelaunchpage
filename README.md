@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [https://super-sherbet-1c5ed6.netlify.app/](https://super-sherbet-1c5ed6.netlify.app/)
+- Live Site URL: [https://capable-meringue-e572d2.netlify.app/](https://capable-meringue-e572d2.netlify.app/)
 
 ## My process
 
